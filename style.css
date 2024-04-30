@@ -1,17 +1,17 @@
 @font-face{
-    src: url("FONT/attila.ttf");
+    src: url("fonts/attila.ttf");
     font-family: "attila Sans Uniform";
 }
 @font-face{
-    src: url("FONT/DancingScript-VariableFont_wght.ttf");
+    src: url("fonts/DancingScript-VariableFont_wght.ttf");
     font-family: "dancing script";
 }
 @font-face{
-    src: url("FONT/Havelock\ Titling\ Family/havelock.otf");
+    src: url("fonts/Havelock\ Titling\ Family/havelock.otf");
     font-family: "havelock titling";
 }
 @font-face{
-    src: url("FONT/Montserrat/Montserrat-Medium.ttf");
+    src: url("fonts/Montserrat/Montserrat-Medium.ttf");
     font-family: "montserrat";
 }
 *{
